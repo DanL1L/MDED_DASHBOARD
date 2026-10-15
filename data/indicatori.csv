@@ -1,0 +1,1247 @@
+"indicator","frecventa","perioada","an","trimestru","luna","zi","valoare","interval_min","interval_max","unitate","tip","sursa","sursa_detaliu","vintage","data_actualizarii","nota"
+"bnm_net_eur","L","2025L08",2025,,8,,0,,,"mil. EUR","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dovre/DOVRE2.xhtml?id=0&lang=ro",,"2026-09-16","cumpărări minus vânzări la vedere, milioane"
+"bnm_net_eur","L","2025L09",2025,,9,,-4,,,"mil. EUR","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dovre/DOVRE2.xhtml?id=0&lang=ro",,"2026-09-16","cumpărări minus vânzări la vedere, milioane"
+"bnm_net_eur","L","2025L10",2025,,10,,-33,,,"mil. EUR","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dovre/DOVRE2.xhtml?id=0&lang=ro",,"2026-09-16","cumpărări minus vânzări la vedere, milioane"
+"bnm_net_eur","L","2025L11",2025,,11,,15,,,"mil. EUR","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dovre/DOVRE2.xhtml?id=0&lang=ro",,"2026-09-16","cumpărări minus vânzări la vedere, milioane"
+"bnm_net_eur","L","2025L12",2025,,12,,0,,,"mil. EUR","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dovre/DOVRE2.xhtml?id=0&lang=ro",,"2026-09-16","cumpărări minus vânzări la vedere, milioane"
+"bnm_net_eur","L","2026L01",2026,,1,,-2,,,"mil. EUR","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dovre/DOVRE2.xhtml?id=0&lang=ro",,"2026-09-16","cumpărări minus vânzări la vedere, milioane"
+"bnm_net_eur","L","2026L02",2026,,2,,0,,,"mil. EUR","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dovre/DOVRE2.xhtml?id=0&lang=ro",,"2026-09-16","cumpărări minus vânzări la vedere, milioane"
+"bnm_net_eur","L","2026L03",2026,,3,,0,,,"mil. EUR","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dovre/DOVRE2.xhtml?id=0&lang=ro",,"2026-09-16","cumpărări minus vânzări la vedere, milioane"
+"bnm_net_eur","L","2026L04",2026,,4,,-14.1,,,"mil. EUR","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dovre/DOVRE2.xhtml?id=0&lang=ro",,"2026-09-16","cumpărări minus vânzări la vedere, milioane"
+"bnm_net_eur","L","2026L05",2026,,5,,0,,,"mil. EUR","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dovre/DOVRE2.xhtml?id=0&lang=ro",,"2026-09-16","cumpărări minus vânzări la vedere, milioane"
+"bnm_net_eur","L","2026L06",2026,,6,,0,,,"mil. EUR","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dovre/DOVRE2.xhtml?id=0&lang=ro",,"2026-09-16","cumpărări minus vânzări la vedere, milioane"
+"bnm_net_eur","L","2026L07",2026,,7,,0,,,"mil. EUR","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dovre/DOVRE2.xhtml?id=0&lang=ro",,"2026-09-16","cumpărări minus vânzări la vedere, milioane"
+"bnm_net_eur","L","2026L08",2026,,8,,19,,,"mil. EUR","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dovre/DOVRE2.xhtml?id=0&lang=ro",,"2026-09-25","cumpărări minus vânzări la vedere, milioane"
+"bnm_net_usd","L","2025L08",2025,,8,,0,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dovre/DOVRE2.xhtml?id=0&lang=ro",,"2026-09-16","cumpărări minus vânzări la vedere, milioane"
+"bnm_net_usd","L","2025L09",2025,,9,,0,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dovre/DOVRE2.xhtml?id=0&lang=ro",,"2026-09-16","cumpărări minus vânzări la vedere, milioane"
+"bnm_net_usd","L","2025L10",2025,,10,,0,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dovre/DOVRE2.xhtml?id=0&lang=ro",,"2026-09-16","cumpărări minus vânzări la vedere, milioane"
+"bnm_net_usd","L","2025L11",2025,,11,,0,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dovre/DOVRE2.xhtml?id=0&lang=ro",,"2026-09-16","cumpărări minus vânzări la vedere, milioane"
+"bnm_net_usd","L","2025L12",2025,,12,,0,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dovre/DOVRE2.xhtml?id=0&lang=ro",,"2026-09-16","cumpărări minus vânzări la vedere, milioane"
+"bnm_net_usd","L","2026L01",2026,,1,,0,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dovre/DOVRE2.xhtml?id=0&lang=ro",,"2026-09-16","cumpărări minus vânzări la vedere, milioane"
+"bnm_net_usd","L","2026L02",2026,,2,,0,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dovre/DOVRE2.xhtml?id=0&lang=ro",,"2026-09-16","cumpărări minus vânzări la vedere, milioane"
+"bnm_net_usd","L","2026L03",2026,,3,,0,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dovre/DOVRE2.xhtml?id=0&lang=ro",,"2026-09-16","cumpărări minus vânzări la vedere, milioane"
+"bnm_net_usd","L","2026L04",2026,,4,,0,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dovre/DOVRE2.xhtml?id=0&lang=ro",,"2026-09-16","cumpărări minus vânzări la vedere, milioane"
+"bnm_net_usd","L","2026L05",2026,,5,,0,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dovre/DOVRE2.xhtml?id=0&lang=ro",,"2026-09-16","cumpărări minus vânzări la vedere, milioane"
+"bnm_net_usd","L","2026L06",2026,,6,,0,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dovre/DOVRE2.xhtml?id=0&lang=ro",,"2026-09-16","cumpărări minus vânzări la vedere, milioane"
+"bnm_net_usd","L","2026L07",2026,,7,,0,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dovre/DOVRE2.xhtml?id=0&lang=ro",,"2026-09-16","cumpărări minus vânzări la vedere, milioane"
+"bnm_net_usd","L","2026L08",2026,,8,,0,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dovre/DOVRE2.xhtml?id=0&lang=ro",,"2026-09-25","cumpărări minus vânzări la vedere, milioane"
+"cheltuieli_bpn","L","2017L01",2017,,1,,3545.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031_01_17.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2017L04",2017,,4,,4049.8,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030_04_2017.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2017L05",2017,,5,,4072.4,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031_05_2017.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2017L06",2017,,6,,4627.8,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030_06_2017.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2017L07",2017,,7,,4192.5,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.07.2017.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2017L08",2017,,8,,4063.9,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.08.2017.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2017L09",2017,,9,,3996.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.09.2017.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2017L10",2017,,10,,5044,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.10.2017.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2017L11",2017,,11,,4762.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.11.2017.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2017L12",2017,,12,,7454.4,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.12.2017.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2018L01",2018,,1,,3352.5,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.01.2018.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2018L02",2018,,2,,4362.2,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2028.02.2018.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2018L03",2018,,3,,4439,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.03.2018.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2018L04",2018,,4,,4751.8,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.04.2018.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2018L05",2018,,5,,4552.6,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.05.2018.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2018L06",2018,,6,,5426.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.06.2018.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2018L07",2018,,7,,4884.9,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.07.2018.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2018L08",2018,,8,,4585,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.08.2018.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2018L09",2018,,9,,4520.4,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.09.2018.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2018L10",2018,,10,,5343,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.10.2018.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2018L11",2018,,11,,5417.1,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.11.2018.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2018L12",2018,,12,,7942.1,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.12.2018.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2019L01",2019,,1,,4140.4,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.01.2019.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2019L02",2019,,2,,5131.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2028.02.2019.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2019L03",2019,,3,,5212.1,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.03.2019.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2019L04",2019,,4,,6210.2,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.04.2019.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2019L05",2019,,5,,5189.8,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.05.2019%20%281%29.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2019L06",2019,,6,,5688.5,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.06.2019.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2019L07",2019,,7,,5558.9,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.07.2019.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2019L08",2019,,8,,4690.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.08.2019.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2019L09",2019,,9,,4940.2,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.09.2019.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2019L10",2019,,10,,5982.2,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.10.2019.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2019L11",2019,,11,,5462.5,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.11.2019.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2019L12",2019,,12,,7765.5,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.12.2019.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2020L01",2020,,1,,4754.8,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.01.2020.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2020L02",2020,,2,,5326.2,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2029.02.2020.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2020L03",2020,,3,,5342,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.03.2020.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2020L04",2020,,4,,6000.2,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.04.2020.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2020L05",2020,,5,,5132.7,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.05.2020.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2020L06",2020,,6,,5946.2,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.06.2020.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2020L07",2020,,7,,5896.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.07.2020.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2020L08",2020,,8,,5551.9,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.08.2020.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2020L09",2020,,9,,6022.74,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.09.2020.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2020L10",2020,,10,,7244.16,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.10.2020.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2020L11",2020,,11,,6535.9,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.11.2020.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2020L12",2020,,12,,9521.8,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.12.2020.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2021L01",2021,,1,,5218.7,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.01.2021.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2021L02",2021,,2,,5898,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2028.02.2021.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2021L03",2021,,3,,6177.9,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.03.2021.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2021L04",2021,,4,,7448.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.04.2021.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2021L05",2021,,5,,6500.2,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.05.2021.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2021L06",2021,,6,,7136.9,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.06.2021.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2021L07",2021,,7,,6312,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.07.2021.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2021L08",2021,,8,,5426.8,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.08.2021.xlsx",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2021L09",2021,,9,,6404.7,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.09.2021.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2021L10",2021,,10,,7146.1,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.10.2021.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2021L11",2021,,11,,7330.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.11.2021.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2021L12",2021,,12,,11013.6,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031%20decembrie%202021.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2022L01",2022,,1,,6086.8,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.01.2022.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2022L02",2022,,2,,7180.7,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2028.02.2022.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2022L03",2022,,3,,8014.1,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.03.2022.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2022L04",2022,,4,,8223.1,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.04.2022.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2022L05",2022,,5,,7323,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.05.2022.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2022L06",2022,,6,,8302.7,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.06.2022.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2022L07",2022,,7,,7528.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.07.2022.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2022L08",2022,,8,,7191.9,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.08.2022.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2022L09",2022,,9,,7634.7,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.09.2022.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2022L10",2022,,10,,9256.2,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.10.2022.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2022L11",2022,,11,,9774.6,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.11.2022.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2022L12",2022,,12,,13857.9,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.12.2022.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2023L01",2023,,1,,7341.6,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.01.2023.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2023L02",2023,,2,,8947.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2028.02.2023_0.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2023L03",2023,,3,,9650.5,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.03.2023.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2023L04",2023,,4,,10031.4,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.04.2023.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2023L05",2023,,5,,9104.9,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.05.2023.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2023L06",2023,,6,,9150.9,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.06.2023%20%281%29.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2023L07",2023,,7,,9985.9,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.07.2023.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2023L08",2023,,8,,9183.9,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.08.2023.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2023L09",2023,,9,,8718.2,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.09.2023.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2023L10",2023,,10,,9784.5,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.10.2023.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2023L11",2023,,11,,10981,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN_%2030.11.2023.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2023L12",2023,,12,,14991,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.12.2023%20%281%29.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2024L01",2024,,1,,7670.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.01.2024.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2024L02",2024,,2,,10282.1,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2029.02.2024.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2024L03",2024,,3,,9735.6,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.03.2024.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2024L06",2024,,6,,10466.5,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.06.2024.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2024L07",2024,,7,,10362.7,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.07.2024.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2024L08",2024,,8,,9670.8,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.08.2024.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2024L09",2024,,9,,8986.7,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030%20sept%202024.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2024L10",2024,,10,,10342.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.10.2024.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2024L11",2024,,11,,10834.7,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.11.2024.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2024L12",2024,,12,,15058.6,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.12.2024.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2025L01",2025,,1,,9128.9,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.01.2025.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2025L02",2025,,2,,10474.6,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2028.02.2025.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2025L03",2025,,3,,11211.9,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.03.2025.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2025L04",2025,,4,,11336.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.04.2025.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2025L05",2025,,5,,12145.9,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.05.2025%20a.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2025L06",2025,,6,,11994.8,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.06.2025.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2025L07",2025,,7,,10626.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.07.2025%20%282%29.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2025L08",2025,,8,,10763.2,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.08.2025.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2025L09",2025,,9,,10720.1,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.09.2025.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2025L10",2025,,10,,11785.1,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.10.2025.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2025L11",2025,,11,,11882,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.11.2025.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2025L12",2025,,12,,17787.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.12.2025.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2026L01",2026,,1,,10176.8,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.01.2026.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2026L02",2026,,2,,11079.6,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2028.02.2026.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2026L03",2026,,3,,12120.4,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.03.2026.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2026L04",2026,,4,,12957.9,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.04.2026.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2026L05",2026,,5,,11788.1,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.05.2026.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"cheltuieli_bpn","L","2026L06",2026,,6,,13038.6,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.06.2026.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"credite_noi_lei","L","2025L08",2025,,8,,4750.05,,,"mil. lei","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"credite_noi_lei","L","2025L09",2025,,9,,5198.96,,,"mil. lei","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"credite_noi_lei","L","2025L10",2025,,10,,5009.32,,,"mil. lei","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"credite_noi_lei","L","2025L11",2025,,11,,4979.94,,,"mil. lei","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"credite_noi_lei","L","2025L12",2025,,12,,6148.34,,,"mil. lei","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"credite_noi_lei","L","2026L01",2026,,1,,3920.81,,,"mil. lei","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"credite_noi_lei","L","2026L02",2026,,2,,4993.67,,,"mil. lei","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"credite_noi_lei","L","2026L03",2026,,3,,6380.18,,,"mil. lei","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"credite_noi_lei","L","2026L04",2026,,4,,5547.66,,,"mil. lei","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"credite_noi_lei","L","2026L05",2026,,5,,5335.39,,,"mil. lei","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"credite_noi_lei","L","2026L06",2026,,6,,5759.54,,,"mil. lei","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"credite_noi_lei","L","2026L07",2026,,7,,5438.1,,,"mil. lei","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"credite_noi_lei","L","2026L08",2026,,8,,5303.51,,,"mil. lei","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-18","total pe termene"
+"credite_noi_valuta","L","2025L08",2025,,8,,1482.45,,,"mil. lei","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"credite_noi_valuta","L","2025L09",2025,,9,,1917.12,,,"mil. lei","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"credite_noi_valuta","L","2025L10",2025,,10,,1675.86,,,"mil. lei","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"credite_noi_valuta","L","2025L11",2025,,11,,1879.2,,,"mil. lei","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"credite_noi_valuta","L","2025L12",2025,,12,,1418.25,,,"mil. lei","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"credite_noi_valuta","L","2026L01",2026,,1,,1262.65,,,"mil. lei","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"credite_noi_valuta","L","2026L02",2026,,2,,1604.95,,,"mil. lei","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"credite_noi_valuta","L","2026L03",2026,,3,,2419.77,,,"mil. lei","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"credite_noi_valuta","L","2026L04",2026,,4,,1665.31,,,"mil. lei","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"credite_noi_valuta","L","2026L05",2026,,5,,1862.88,,,"mil. lei","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"credite_noi_valuta","L","2026L06",2026,,6,,2372.65,,,"mil. lei","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"credite_noi_valuta","L","2026L07",2026,,7,,1776.16,,,"mil. lei","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"credite_noi_valuta","L","2026L08",2026,,8,,1726.75,,,"mil. lei","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-18","total pe termene"
+"exporturi","A","2015",2015,,,,46673.542,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"exporturi","A","2016",2016,,,,52261.158,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"exporturi","A","2017",2017,,,,57260.183,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"exporturi","A","2018",2018,,,,58035.364,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"exporturi","A","2019",2019,,,,64333.559,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"exporturi","A","2020",2020,,,,55754.332,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"exporturi","A","2021",2021,,,,74194.165,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"exporturi","A","2022",2022,,,,113161.71,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"exporturi","A","2023",2023,,,,106585.672,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"exporturi","A","2024",2024,,,,102258.36,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"exporturi","A","2025",2025,,,,112249.7087,,,"mil. lei (prețuri curente)","efectiv","BNS","https://statistica.gov.md/files/files/ComPresa/PIB/Res_Utiliz_PIB_trim_IV_2025.xlsx",,"2026-09-02","comunicat BNS"
+"exporturi","T","2015T1",2015,1,,,10867.793,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"exporturi","T","2015T2",2015,2,,,11502.996,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"exporturi","T","2015T3",2015,3,,,11333.285,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"exporturi","T","2015T4",2015,4,,,12969.468,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"exporturi","T","2016T1",2016,1,,,10680.835,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"exporturi","T","2016T2",2016,2,,,12379.633,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"exporturi","T","2016T3",2016,3,,,13540.898,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"exporturi","T","2016T4",2016,4,,,15659.791,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"exporturi","T","2017T1",2017,1,,,13327.798,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"exporturi","T","2017T2",2017,2,,,12595.178,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"exporturi","T","2017T3",2017,3,,,14577.581,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"exporturi","T","2017T4",2017,4,,,16759.625,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"exporturi","T","2018T1",2018,1,,,13896.651,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"exporturi","T","2018T2",2018,2,,,13702.326,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"exporturi","T","2018T3",2018,3,,,14281.064,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"exporturi","T","2018T4",2018,4,,,16155.323,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"exporturi","T","2019T1",2019,1,,,15268.275,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"exporturi","T","2019T2",2019,2,,,15055.266,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"exporturi","T","2019T3",2019,3,,,16463.222,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"exporturi","T","2019T4",2019,4,,,17546.796,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"exporturi","T","2020T1",2020,1,,,15263.768,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"exporturi","T","2020T2",2020,2,,,11714.543,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"exporturi","T","2020T3",2020,3,,,12724.948,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"exporturi","T","2020T4",2020,4,,,16051.073,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"exporturi","T","2021T1",2021,1,,,15296.411,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"exporturi","T","2021T2",2021,2,,,15719.946,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"exporturi","T","2021T3",2021,3,,,19780.021,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"exporturi","T","2021T4",2021,4,,,23397.787,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"exporturi","T","2022T1",2022,1,,,24608.019,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"exporturi","T","2022T2",2022,2,,,30530.183,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"exporturi","T","2022T3",2022,3,,,28098.151,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"exporturi","T","2022T4",2022,4,,,29925.357,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"exporturi","T","2023T1",2023,1,,,28354.897,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"exporturi","T","2023T2",2023,2,,,24746.418,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"exporturi","T","2023T3",2023,3,,,26129.986,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"exporturi","T","2023T4",2023,4,,,27354.371,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"exporturi","T","2024T1",2024,1,,,24218.464,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"exporturi","T","2024T2",2024,2,,,24995.516,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"exporturi","T","2024T3",2024,3,,,25558.311,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"exporturi","T","2024T4",2024,4,,,27486.069,,,"mil. lei (prețuri curente)","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"exporturi","T","2025T1",2025,1,,,24179.7493,,,"mil. lei (prețuri curente)","efectiv","BNS","https://statistica.gov.md/files/files/ComPresa/PIB/Anexa_%201_Res-Utiliz-PIB_trim_I_2025.xlsx",,"2026-09-02","comunicat BNS"
+"exporturi","T","2025T2",2025,2,,,24865.1856,,,"mil. lei (prețuri curente)","efectiv","BNS","https://statistica.gov.md/files/files/ComPresa/PIB/Anexe_Res-Utiliz-PIB_trim_II_2025.xlsx",,"2026-09-02","comunicat BNS"
+"exporturi","T","2025T3",2025,3,,,30180.09,,,"mil. lei (prețuri curente)","efectiv","BNS","https://statistica.gov.md/files/files/ComPresa/PIB/Res_Utiliz_PIB_trim_III_2025.xlsx",,"2026-09-02","comunicat BNS"
+"exporturi","T","2025T4",2025,4,,,33024.6838,,,"mil. lei (prețuri curente)","efectiv","BNS","https://statistica.gov.md/files/files/ComPresa/PIB/Res_Utiliz_PIB_trim_IV_2025.xlsx",,"2026-09-02","comunicat BNS"
+"exporturi","T","2026T1",2026,1,,,28383.6184,,,"mil. lei (prețuri curente)","efectiv","BNS","https://statistica.gov.md/files/files/ComPresa/PIB/Res-Utiliz-PIB_trim_I_2026_ro.xlsx",,"2026-09-02","comunicat BNS"
+"exporturi","T","2026T2",2026,2,,,29766.084,,,"mil. lei (prețuri curente)","efectiv","BNS","https://statistica.gov.md/files/files/ComPresa/PIB/Anexa_Res_Utiliz_PIB_trim_II_sem_I_2026.xlsx",,"2026-09-15","comunicat BNS"
+"exporturi_bunuri","L","2015L01",2015,,1,,147.7,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2015L02",2015,,2,,165.5,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2015L03",2015,,3,,174.7,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2015L04",2015,,4,,151.3,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2015L05",2015,,5,,172.9,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2015L06",2015,,6,,180.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2015L07",2015,,7,,164.8,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2015L08",2015,,8,,126.8,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2015L09",2015,,9,,163.3,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2015L10",2015,,10,,188.5,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2015L11",2015,,11,,167.2,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2015L12",2015,,12,,163.5,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2016L01",2016,,1,,116.8,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2016L02",2016,,2,,138.5,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2016L03",2016,,3,,161.2,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2016L04",2016,,4,,178.5,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2016L05",2016,,5,,153,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2016L06",2016,,6,,157.4,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2016L07",2016,,7,,165.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2016L08",2016,,8,,168,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2016L09",2016,,9,,193.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2016L10",2016,,10,,200.8,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2016L11",2016,,11,,217.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2016L12",2016,,12,,193.5,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2017L01",2017,,1,,139.5,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2017L02",2017,,2,,176.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2017L03",2017,,3,,212.1,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2017L04",2017,,4,,154.2,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2017L05",2017,,5,,174.7,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2017L06",2017,,6,,171.1,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2017L07",2017,,7,,191.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2017L08",2017,,8,,207.9,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2017L09",2017,,9,,223.9,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2017L10",2017,,10,,268.2,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2017L11",2017,,11,,272.1,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2017L12",2017,,12,,233.1,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2018L01",2018,,1,,220.3,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2018L02",2018,,2,,215.5,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2018L03",2018,,3,,242.1,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2018L04",2018,,4,,199.7,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2018L05",2018,,5,,223,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2018L06",2018,,6,,214.1,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2018L07",2018,,7,,218.8,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2018L08",2018,,8,,218.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2018L09",2018,,9,,207.3,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2018L10",2018,,10,,259,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2018L11",2018,,11,,268.9,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2018L12",2018,,12,,218.8,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2019L01",2019,,1,,234.3,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2019L02",2019,,2,,241.4,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2019L03",2019,,3,,257.2,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2019L04",2019,,4,,215.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2019L05",2019,,5,,210.5,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2019L06",2019,,6,,202.2,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2019L07",2019,,7,,220.2,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2019L08",2019,,8,,205.8,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2019L09",2019,,9,,238.8,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2019L10",2019,,10,,268.3,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2019L11",2019,,11,,266.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2019L12",2019,,12,,218.3,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2020L01",2020,,1,,219.5,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2020L02",2020,,2,,245.3,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2020L03",2020,,3,,210.2,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2020L04",2020,,4,,149.8,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2020L05",2020,,5,,155.7,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2020L06",2020,,6,,189.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2020L07",2020,,7,,191.1,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2020L08",2020,,8,,163.9,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2020L09",2020,,9,,212.3,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2020L10",2020,,10,,249.4,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2020L11",2020,,11,,262,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2020L12",2020,,12,,218.3,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"exporturi_bunuri","L","2021L01",2021,,1,,198.4,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2021L02",2021,,2,,227,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2021L03",2021,,3,,259.3,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2021L04",2021,,4,,218.2,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2021L05",2021,,5,,201.7,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2021L06",2021,,6,,226.8,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2021L07",2021,,7,,240.7,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2021L08",2021,,8,,236.3,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2021L09",2021,,9,,294.9,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2021L10",2021,,10,,352.2,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2021L11",2021,,11,,363.9,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2021L12",2021,,12,,325,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2022L01",2022,,1,,330.4,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2022L02",2022,,2,,336.5,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2022L03",2022,,3,,395.8,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2022L04",2022,,4,,396.3,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2022L05",2022,,5,,416,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2022L06",2022,,6,,416.4,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2022L07",2022,,7,,338.2,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2022L08",2022,,8,,329.4,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2022L09",2022,,9,,318.8,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2022L10",2022,,10,,351.9,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2022L11",2022,,11,,355.4,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2022L12",2022,,12,,347,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2023L01",2023,,1,,331.1,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2023L02",2023,,2,,356,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2023L03",2023,,3,,384.9,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2023L04",2023,,4,,317.4,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2023L05",2023,,5,,336.5,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2023L06",2023,,6,,316.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2023L07",2023,,7,,304.2,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2023L08",2023,,8,,321.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2023L09",2023,,9,,348,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2023L10",2023,,10,,341.8,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2023L11",2023,,11,,379.2,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2023L12",2023,,12,,311.3,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2024L01",2024,,1,,274.1,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2024L02",2024,,2,,327.1,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2024L03",2024,,3,,320.3,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2024L04",2024,,4,,292.7,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2024L05",2024,,5,,277.8,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2024L06",2024,,6,,288.5,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2024L07",2024,,7,,284.9,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2024L08",2024,,8,,272.7,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2024L09",2024,,9,,280.7,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2024L10",2024,,10,,330.9,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2024L11",2024,,11,,335.5,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2024L12",2024,,12,,269.8,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2025L01",2025,,1,,243.1,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2025L02",2025,,2,,269.1,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2025L03",2025,,3,,299.1,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2025L04",2025,,4,,265.5,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2025L05",2025,,5,,257.8,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2025L06",2025,,6,,266,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2025L07",2025,,7,,346.9,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2025L08",2025,,8,,332.4,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2025L09",2025,,9,,345,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2025L10",2025,,10,,409,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2025L11",2025,,11,,395.2,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2025L12",2025,,12,,351.7,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2026L01",2026,,1,,310.8,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2026L02",2026,,2,,337.7,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2026L03",2026,,3,,344.8,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2026L04",2026,,4,,314.7,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2026L05",2026,,5,,301.8,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2026L06",2026,,6,,315.7,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"exporturi_bunuri","L","2026L07",2026,,7,,364.8,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-15",
+"importuri_bunuri","L","2015L01",2015,,1,,269.3,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2015L02",2015,,2,,304.3,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2015L03",2015,,3,,402.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2015L04",2015,,4,,329.5,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2015L05",2015,,5,,328,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2015L06",2015,,6,,351.7,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2015L07",2015,,7,,340.9,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2015L08",2015,,8,,298.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2015L09",2015,,9,,337.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2015L10",2015,,10,,337.1,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2015L11",2015,,11,,334.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2015L12",2015,,12,,352.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2016L01",2016,,1,,207.3,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2016L02",2016,,2,,287,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2016L03",2016,,3,,366.8,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2016L04",2016,,4,,354.9,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2016L05",2016,,5,,327.7,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2016L06",2016,,6,,324.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2016L07",2016,,7,,314.1,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2016L08",2016,,8,,351.1,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2016L09",2016,,9,,361.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2016L10",2016,,10,,380.2,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2016L11",2016,,11,,353.5,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2016L12",2016,,12,,391.4,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2017L01",2017,,1,,266.8,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2017L02",2017,,2,,332.7,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2017L03",2017,,3,,431.2,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2017L04",2017,,4,,361.5,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2017L05",2017,,5,,400.4,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2017L06",2017,,6,,388.8,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2017L07",2017,,7,,396.9,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2017L08",2017,,8,,429.7,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2017L09",2017,,9,,430.8,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2017L10",2017,,10,,465.9,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2017L11",2017,,11,,455.3,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2017L12",2017,,12,,471.4,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2018L01",2018,,1,,374.3,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2018L02",2018,,2,,427.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2018L03",2018,,3,,524.1,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2018L04",2018,,4,,444.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2018L05",2018,,5,,505.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2018L06",2018,,6,,458.7,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2018L07",2018,,7,,488,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2018L08",2018,,8,,480.7,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2018L09",2018,,9,,474,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2018L10",2018,,10,,540.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2018L11",2018,,11,,522.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2018L12",2018,,12,,519.3,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2019L01",2019,,1,,372.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2019L02",2019,,2,,459.3,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2019L03",2019,,3,,533.8,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2019L04",2019,,4,,515.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2019L05",2019,,5,,481.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2019L06",2019,,6,,445.4,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2019L07",2019,,7,,499.1,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2019L08",2019,,8,,464.3,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2019L09",2019,,9,,501.7,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2019L10",2019,,10,,525.3,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2019L11",2019,,11,,504.1,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2019L12",2019,,12,,539.7,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2020L01",2020,,1,,379.8,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2020L02",2020,,2,,484.8,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2020L03",2020,,3,,500.5,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2020L04",2020,,4,,285.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2020L05",2020,,5,,329.4,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2020L06",2020,,6,,413.5,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2020L07",2020,,7,,496.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2020L08",2020,,8,,433.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2020L09",2020,,9,,508.3,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2020L10",2020,,10,,493.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2020L11",2020,,11,,522.9,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2020L12",2020,,12,,567.3,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-11",
+"importuri_bunuri","L","2021L01",2021,,1,,399.4,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2021L02",2021,,2,,521.4,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2021L03",2021,,3,,630.1,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2021L04",2021,,4,,562.2,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2021L05",2021,,5,,563.4,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2021L06",2021,,6,,589.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2021L07",2021,,7,,562,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2021L08",2021,,8,,574.9,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2021L09",2021,,9,,671.2,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2021L10",2021,,10,,646.8,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2021L11",2021,,11,,701.5,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2021L12",2021,,12,,754.2,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2022L01",2022,,1,,621.7,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2022L02",2022,,2,,669.1,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2022L03",2022,,3,,748.3,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2022L04",2022,,4,,770.4,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2022L05",2022,,5,,772.7,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2022L06",2022,,6,,768.4,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2022L07",2022,,7,,761.1,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2022L08",2022,,8,,780,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2022L09",2022,,9,,844.1,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2022L10",2022,,10,,751.1,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2022L11",2022,,11,,858.3,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2022L12",2022,,12,,873.8,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2023L01",2023,,1,,733.3,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2023L02",2023,,2,,752.5,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2023L03",2023,,3,,821.1,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2023L04",2023,,4,,690.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2023L05",2023,,5,,709.2,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2023L06",2023,,6,,665.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2023L07",2023,,7,,639.5,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2023L08",2023,,8,,698.9,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2023L09",2023,,9,,703.2,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2023L10",2023,,10,,714.1,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2023L11",2023,,11,,737.2,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2023L12",2023,,12,,810.1,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2024L01",2024,,1,,623.3,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2024L02",2024,,2,,752.3,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2024L03",2024,,3,,779.4,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2024L04",2024,,4,,776.8,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2024L05",2024,,5,,691.4,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2024L06",2024,,6,,693,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2024L07",2024,,7,,788.4,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2024L08",2024,,8,,736,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2024L09",2024,,9,,773.4,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2024L10",2024,,10,,792,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2024L11",2024,,11,,813.9,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2024L12",2024,,12,,845.3,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2025L01",2025,,1,,720.3,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2025L02",2025,,2,,870.4,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2025L03",2025,,3,,958.1,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2025L04",2025,,4,,858.7,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2025L05",2025,,5,,855.2,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2025L06",2025,,6,,852.9,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2025L07",2025,,7,,904.7,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2025L08",2025,,8,,888.2,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2025L09",2025,,9,,935.3,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2025L10",2025,,10,,995,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2025L11",2025,,11,,978.2,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2025L12",2025,,12,,1099.4,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2026L01",2026,,1,,823.7,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2026L02",2026,,2,,972.1,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2026L03",2026,,3,,1077.9,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2026L04",2026,,4,,1064.5,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2026L05",2026,,5,,942,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2026L06",2026,,6,,936.6,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-05",
+"importuri_bunuri","L","2026L07",2026,,7,,978.2,,,"mil. USD","efectiv","BNS","EXT015000.px",,"2026-09-15",
+"inflatie","A","2015",2015,,,,9.7,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE010400.px",,"2026-09-11","IPC mediu anual, anul precedent = 100"
+"inflatie","A","2016",2016,,,,6.36,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE010400.px",,"2026-09-11","IPC mediu anual, anul precedent = 100"
+"inflatie","A","2017",2017,,,,6.57,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE010400.px",,"2026-09-11","IPC mediu anual, anul precedent = 100"
+"inflatie","A","2018",2018,,,,3.05,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE010400.px",,"2026-09-11","IPC mediu anual, anul precedent = 100"
+"inflatie","A","2019",2019,,,,4.84,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE010400.px",,"2026-09-11","IPC mediu anual, anul precedent = 100"
+"inflatie","A","2020",2020,,,,3.77,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE010400.px",,"2026-09-11","IPC mediu anual, anul precedent = 100"
+"inflatie","A","2021",2021,,,,5.11,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE010400.px",,"2026-09-02","IPC mediu anual, anul precedent = 100"
+"inflatie","A","2022",2022,,,,28.74,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE010400.px",,"2026-09-02","IPC mediu anual, anul precedent = 100"
+"inflatie","A","2023",2023,,,,13.42,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE010400.px",,"2026-09-02","IPC mediu anual, anul precedent = 100"
+"inflatie","A","2024",2024,,,,4.68,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE010400.px",,"2026-09-02","IPC mediu anual, anul precedent = 100"
+"inflatie","A","2025",2025,,,,7.76,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE010400.px",,"2026-09-02","IPC mediu anual, anul precedent = 100"
+"inflatie","L","2015L01",2015,,1,,4.7,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2015L02",2015,,2,,6.5,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2015L03",2015,,3,,7.1,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2015L04",2015,,4,,7.6,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2015L05",2015,,5,,8.1,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2015L06",2015,,6,,8.3,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2015L07",2015,,7,,8.6,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2015L08",2015,,8,,12.2,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2015L09",2015,,9,,12.6,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2015L10",2015,,10,,13.2,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2015L11",2015,,11,,13.5,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2015L12",2015,,12,,13.6,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2016L01",2016,,1,,13.4,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2016L02",2016,,2,,10.31,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2016L03",2016,,3,,9.38,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2016L04",2016,,4,,8.28,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2016L05",2016,,5,,7.88,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2016L06",2016,,6,,7.44,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2016L07",2016,,7,,6.97,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2016L08",2016,,8,,3.6,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2016L09",2016,,9,,2.97,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2016L10",2016,,10,,2.5,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2016L11",2016,,11,,2.64,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2016L12",2016,,12,,2.38,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2017L01",2017,,1,,2.96,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2017L02",2017,,2,,4.74,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2017L03",2017,,3,,5.15,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2017L04",2017,,4,,6.62,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2017L05",2017,,5,,7.42,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2017L06",2017,,6,,7.3,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2017L07",2017,,7,,7.29,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2017L08",2017,,8,,7.28,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2017L09",2017,,9,,7.62,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2017L10",2017,,10,,7.85,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2017L11",2017,,11,,7.32,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2017L12",2017,,12,,7.31,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2018L01",2018,,1,,6.01,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2018L02",2018,,2,,4.98,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2018L03",2018,,3,,4.67,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2018L04",2018,,4,,3.69,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2018L05",2018,,5,,2.76,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2018L06",2018,,6,,3.21,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2018L07",2018,,7,,2.95,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2018L08",2018,,8,,3.17,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2018L09",2018,,9,,2.38,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2018L10",2018,,10,,1.21,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2018L11",2018,,11,,0.92,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2018L12",2018,,12,,0.88,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2019L01",2019,,1,,2.17,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2019L02",2019,,2,,2.38,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2019L03",2019,,3,,2.82,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2019L04",2019,,4,,3.19,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2019L05",2019,,5,,4.58,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2019L06",2019,,6,,4.35,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2019L07",2019,,7,,5.37,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2019L08",2019,,8,,5.51,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2019L09",2019,,9,,6.25,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2019L10",2019,,10,,6.76,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2019L11",2019,,11,,7.14,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2019L12",2019,,12,,7.54,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2020L01",2020,,1,,6.85,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2020L02",2020,,2,,6.41,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2020L03",2020,,3,,5.94,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2020L04",2020,,4,,5.25,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2020L05",2020,,5,,4.05,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2020L06",2020,,6,,4.25,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2020L07",2020,,7,,4.23,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2020L08",2020,,8,,3.45,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2020L09",2020,,9,,2.32,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2020L10",2020,,10,,1.56,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2020L11",2020,,11,,0.93,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2020L12",2020,,12,,0.39,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2021L01",2021,,1,,0.22,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2021L02",2021,,2,,0.62,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2021L03",2021,,3,,1.49,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2021L04",2021,,4,,2.83,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2021L05",2021,,5,,3.09,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2021L06",2021,,6,,3.16,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2021L07",2021,,7,,3.49,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2021L08",2021,,8,,4.64,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2021L09",2021,,9,,6.68,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2021L10",2021,,10,,8.81,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2021L11",2021,,11,,12.44,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2021L12",2021,,12,,13.94,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2022L01",2022,,1,,16.56,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2022L02",2022,,2,,18.52,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2022L03",2022,,3,,22.16,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2022L04",2022,,4,,27.07,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2022L05",2022,,5,,29.05,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2022L06",2022,,6,,31.83,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2022L07",2022,,7,,33.55,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2022L08",2022,,8,,34.29,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2022L09",2022,,9,,33.97,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2022L10",2022,,10,,34.62,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2022L11",2022,,11,,31.41,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2022L12",2022,,12,,30.24,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2023L01",2023,,1,,27.31,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2023L02",2023,,2,,25.91,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2023L03",2023,,3,,21.98,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2023L04",2023,,4,,18.1,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2023L05",2023,,5,,16.26,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2023L06",2023,,6,,13.15,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2023L07",2023,,7,,10.76,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2023L08",2023,,8,,9.69,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2023L09",2023,,9,,8.63,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2023L10",2023,,10,,6.34,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2023L11",2023,,11,,5.45,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2023L12",2023,,12,,4.2,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2024L01",2024,,1,,4.55,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2024L02",2024,,2,,4.31,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2024L03",2024,,3,,3.94,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2024L04",2024,,4,,3.51,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2024L05",2024,,5,,3.28,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2024L06",2024,,6,,3.76,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2024L07",2024,,7,,4.8,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2024L08",2024,,8,,5.1,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2024L09",2024,,9,,5.2,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2024L10",2024,,10,,5.27,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2024L11",2024,,11,,5.43,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2024L12",2024,,12,,6.97,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2025L01",2025,,1,,9.12,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2025L02",2025,,2,,8.61,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2025L03",2025,,3,,8.75,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2025L04",2025,,4,,7.76,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2025L05",2025,,5,,7.92,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2025L06",2025,,6,,8.17,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2025L07",2025,,7,,7.93,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2025L08",2025,,8,,7.32,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2025L09",2025,,9,,6.86,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2025L10",2025,,10,,6.99,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2025L11",2025,,11,,6.99,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2025L12",2025,,12,,6.84,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2026L01",2026,,1,,4.85,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2026L02",2026,,2,,5.06,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2026L03",2026,,3,,5.81,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2026L04",2026,,4,,6.77,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2026L05",2026,,5,,6.76,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2026L06",2026,,6,,6.51,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2026L07",2026,,7,,6.34,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-05","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2026L08",2026,,8,,6.96,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","L","2026L09",2026,,9,,8.6,,,"%","efectiv","BNS","PRE012600.px",,"2026-10-14","IPC, luna corespunzătoare a anului precedent = 100"
+"inflatie","T","2015T1",2015,1,,,6.1,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","media ratelor anuale lunare din trimestru"
+"inflatie","T","2015T2",2015,2,,,8,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","media ratelor anuale lunare din trimestru"
+"inflatie","T","2015T3",2015,3,,,11.1333,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","media ratelor anuale lunare din trimestru"
+"inflatie","T","2015T4",2015,4,,,13.4333,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","media ratelor anuale lunare din trimestru"
+"inflatie","T","2016T1",2016,1,,,11.03,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","media ratelor anuale lunare din trimestru"
+"inflatie","T","2016T2",2016,2,,,7.8667,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","media ratelor anuale lunare din trimestru"
+"inflatie","T","2016T3",2016,3,,,4.5133,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","media ratelor anuale lunare din trimestru"
+"inflatie","T","2016T4",2016,4,,,2.5067,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","media ratelor anuale lunare din trimestru"
+"inflatie","T","2017T1",2017,1,,,4.2833,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","media ratelor anuale lunare din trimestru"
+"inflatie","T","2017T2",2017,2,,,7.1133,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","media ratelor anuale lunare din trimestru"
+"inflatie","T","2017T3",2017,3,,,7.3967,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","media ratelor anuale lunare din trimestru"
+"inflatie","T","2017T4",2017,4,,,7.4933,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","media ratelor anuale lunare din trimestru"
+"inflatie","T","2018T1",2018,1,,,5.22,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","media ratelor anuale lunare din trimestru"
+"inflatie","T","2018T2",2018,2,,,3.22,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","media ratelor anuale lunare din trimestru"
+"inflatie","T","2018T3",2018,3,,,2.8333,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","media ratelor anuale lunare din trimestru"
+"inflatie","T","2018T4",2018,4,,,1.0033,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","media ratelor anuale lunare din trimestru"
+"inflatie","T","2019T1",2019,1,,,2.4567,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","media ratelor anuale lunare din trimestru"
+"inflatie","T","2019T2",2019,2,,,4.04,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","media ratelor anuale lunare din trimestru"
+"inflatie","T","2019T3",2019,3,,,5.71,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","media ratelor anuale lunare din trimestru"
+"inflatie","T","2019T4",2019,4,,,7.1467,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","media ratelor anuale lunare din trimestru"
+"inflatie","T","2020T1",2020,1,,,6.4,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","media ratelor anuale lunare din trimestru"
+"inflatie","T","2020T2",2020,2,,,4.5167,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","media ratelor anuale lunare din trimestru"
+"inflatie","T","2020T3",2020,3,,,3.3333,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","media ratelor anuale lunare din trimestru"
+"inflatie","T","2020T4",2020,4,,,0.96,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-11","media ratelor anuale lunare din trimestru"
+"inflatie","T","2021T1",2021,1,,,0.7767,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-02","media ratelor anuale lunare din trimestru"
+"inflatie","T","2021T2",2021,2,,,3.0267,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-02","media ratelor anuale lunare din trimestru"
+"inflatie","T","2021T3",2021,3,,,4.9367,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-02","media ratelor anuale lunare din trimestru"
+"inflatie","T","2021T4",2021,4,,,11.73,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-02","media ratelor anuale lunare din trimestru"
+"inflatie","T","2022T1",2022,1,,,19.08,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-02","media ratelor anuale lunare din trimestru"
+"inflatie","T","2022T2",2022,2,,,29.3167,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-02","media ratelor anuale lunare din trimestru"
+"inflatie","T","2022T3",2022,3,,,33.9367,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-02","media ratelor anuale lunare din trimestru"
+"inflatie","T","2022T4",2022,4,,,32.09,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-02","media ratelor anuale lunare din trimestru"
+"inflatie","T","2023T1",2023,1,,,25.0667,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-02","media ratelor anuale lunare din trimestru"
+"inflatie","T","2023T2",2023,2,,,15.8367,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-02","media ratelor anuale lunare din trimestru"
+"inflatie","T","2023T3",2023,3,,,9.6933,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-02","media ratelor anuale lunare din trimestru"
+"inflatie","T","2023T4",2023,4,,,5.33,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-02","media ratelor anuale lunare din trimestru"
+"inflatie","T","2024T1",2024,1,,,4.2667,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-02","media ratelor anuale lunare din trimestru"
+"inflatie","T","2024T2",2024,2,,,3.5167,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-02","media ratelor anuale lunare din trimestru"
+"inflatie","T","2024T3",2024,3,,,5.0333,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-02","media ratelor anuale lunare din trimestru"
+"inflatie","T","2024T4",2024,4,,,5.89,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-02","media ratelor anuale lunare din trimestru"
+"inflatie","T","2025T1",2025,1,,,8.8267,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-02","media ratelor anuale lunare din trimestru"
+"inflatie","T","2025T2",2025,2,,,7.95,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-02","media ratelor anuale lunare din trimestru"
+"inflatie","T","2025T3",2025,3,,,7.37,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-02","media ratelor anuale lunare din trimestru"
+"inflatie","T","2025T4",2025,4,,,6.94,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-02","media ratelor anuale lunare din trimestru"
+"inflatie","T","2026T1",2026,1,,,5.24,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-02","media ratelor anuale lunare din trimestru"
+"inflatie","T","2026T2",2026,2,,,6.68,,,"% (medie, față de anul anterior)","efectiv","BNS","PRE012600.px",,"2026-09-02","media ratelor anuale lunare din trimestru"
+"inflatie","T","2026T3",2026,3,,,7.3,,,"%","efectiv","BNS","PRE012600.px",,"2026-10-14","media ratelor anuale lunare din trimestru"
+"pib","A","2015",2015,,,,146740.205,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"pib","A","2016",2016,,,,159010.419,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"pib","A","2017",2017,,,,176007.293,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"pib","A","2018",2018,,,,189062.627,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"pib","A","2019",2019,,,,206256.239,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"pib","A","2020",2020,,,,199733.684,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"pib","A","2021",2021,,,,242078.629,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"pib","A","2022",2022,,,,274488.063,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"pib","A","2023",2023,,,,303554.038,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"pib","A","2024",2024,,,,323932.494,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"pib","A","2025",2025,,,,353520.8772,,,"mil. lei","efectiv","BNS","https://statistica.gov.md/files/files/ComPresa/PIB/Res_Utiliz_PIB_trim_IV_2025.xlsx",,"2026-09-02","comunicat BNS"
+"pib","T","2015T1",2015,1,,,29230.414,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"pib","T","2015T2",2015,2,,,34386.737,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"pib","T","2015T3",2015,3,,,43368.878,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"pib","T","2015T4",2015,4,,,39754.176,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"pib","T","2016T1",2016,1,,,32249.957,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"pib","T","2016T2",2016,2,,,37220.74,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"pib","T","2016T3",2016,3,,,46898.384,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"pib","T","2016T4",2016,4,,,42641.338,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"pib","T","2017T1",2017,1,,,34572.829,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"pib","T","2017T2",2017,2,,,40056.591,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"pib","T","2017T3",2017,3,,,53366.795,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"pib","T","2017T4",2017,4,,,48011.078,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"pib","T","2018T1",2018,1,,,37255.94,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"pib","T","2018T2",2018,2,,,43897.64,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"pib","T","2018T3",2018,3,,,57159.734,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"pib","T","2018T4",2018,4,,,50749.314,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"pib","T","2019T1",2019,1,,,40478.893,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"pib","T","2019T2",2019,2,,,48849.733,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"pib","T","2019T3",2019,3,,,63155.665,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"pib","T","2019T4",2019,4,,,53771.948,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"pib","T","2020T1",2020,1,,,42908.711,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"pib","T","2020T2",2020,2,,,43114.966,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"pib","T","2020T3",2020,3,,,58052.265,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"pib","T","2020T4",2020,4,,,55657.742,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-11",
+"pib","T","2021T1",2021,1,,,48099.279,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"pib","T","2021T2",2021,2,,,57029.831,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"pib","T","2021T3",2021,3,,,70143.208,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"pib","T","2021T4",2021,4,,,66806.311,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"pib","T","2022T1",2022,1,,,55294.276,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"pib","T","2022T2",2022,2,,,65086.883,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"pib","T","2022T3",2022,3,,,78987.916,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"pib","T","2022T4",2022,4,,,75118.988,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"pib","T","2023T1",2023,1,,,65209.037,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"pib","T","2023T2",2023,2,,,71966.863,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"pib","T","2023T3",2023,3,,,81775.811,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"pib","T","2023T4",2023,4,,,84602.328,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"pib","T","2024T1",2024,1,,,68186.031,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"pib","T","2024T2",2024,2,,,75631.002,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"pib","T","2024T3",2024,3,,,91833.958,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"pib","T","2024T4",2024,4,,,88281.503,,,"mil. lei","efectiv","BNS","CNT255000.px",,"2026-09-02",
+"pib","T","2025T1",2025,1,,,72980.0146,,,"mil. lei","efectiv","BNS","https://statistica.gov.md/files/files/ComPresa/PIB/Anexa_%201_Res-Utiliz-PIB_trim_I_2025.xlsx",,"2026-09-02","comunicat BNS"
+"pib","T","2025T2",2025,2,,,82312.8874,,,"mil. lei","efectiv","BNS","https://statistica.gov.md/files/files/ComPresa/PIB/Anexe_Res-Utiliz-PIB_trim_II_2025.xlsx",,"2026-09-02","comunicat BNS"
+"pib","T","2025T3",2025,3,,,102054.5768,,,"mil. lei","efectiv","BNS","https://statistica.gov.md/files/files/ComPresa/PIB/Res_Utiliz_PIB_trim_III_2025.xlsx",,"2026-09-02","comunicat BNS"
+"pib","T","2025T4",2025,4,,,96058.3992,,,"mil. lei","efectiv","BNS","https://statistica.gov.md/files/files/ComPresa/PIB/Res_Utiliz_PIB_trim_IV_2025.xlsx",,"2026-09-02","comunicat BNS"
+"pib","T","2026T1",2026,1,,,77451.9347,,,"mil. lei","efectiv","BNS","https://statistica.gov.md/files/files/ComPresa/PIB/Res-Utiliz-PIB_trim_I_2026_ro.xlsx",,"2026-09-02","comunicat BNS"
+"pib","T","2026T2",2026,2,,,88327.8039,,,"mil. lei","efectiv","BNS","https://statistica.gov.md/files/files/ComPresa/PIB/Anexa_Res_Utiliz_PIB_trim_II_sem_I_2026.xlsx",,"2026-09-15","comunicat BNS"
+"pib_real","A","2015",2015,,,,-0.7,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-11",
+"pib_real","A","2016",2016,,,,4.6,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-11",
+"pib_real","A","2017",2017,,,,4.2,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-11",
+"pib_real","A","2018",2018,,,,4.1,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-11",
+"pib_real","A","2019",2019,,,,3.6,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-11",
+"pib_real","A","2020",2020,,,,-8.3,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-11",
+"pib_real","A","2021",2021,,,,13.9,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-02",
+"pib_real","A","2022",2022,,,,-4.6,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-02",
+"pib_real","A","2023",2023,,,,1.2,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-02",
+"pib_real","A","2024",2024,,,,0.3,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-02",
+"pib_real","A","2025",2025,,,,2.4165,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","https://statistica.gov.md/files/files/ComPresa/PIB/Res_Utiliz_PIB_trim_IV_2025.xlsx",,"2026-09-02","comunicat BNS"
+"pib_real","T","2015T1",2015,1,,,7.9,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-11",
+"pib_real","T","2015T2",2015,2,,,0.2,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-11",
+"pib_real","T","2015T3",2015,3,,,-3.8,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-11",
+"pib_real","T","2015T4",2015,4,,,-4.1,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-11",
+"pib_real","T","2016T1",2016,1,,,0.6,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-11",
+"pib_real","T","2016T2",2016,2,,,2.7,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-11",
+"pib_real","T","2016T3",2016,3,,,7.5,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-11",
+"pib_real","T","2016T4",2016,4,,,6.4,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-11",
+"pib_real","T","2017T1",2017,1,,,3.9,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-11",
+"pib_real","T","2017T2",2017,2,,,2.1,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-11",
+"pib_real","T","2017T3",2017,3,,,4.4,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-11",
+"pib_real","T","2017T4",2017,4,,,6,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-11",
+"pib_real","T","2018T1",2018,1,,,2.3,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-11",
+"pib_real","T","2018T2",2018,2,,,5,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-11",
+"pib_real","T","2018T3",2018,3,,,3.9,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-11",
+"pib_real","T","2018T4",2018,4,,,4.8,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-11",
+"pib_real","T","2019T1",2019,1,,,5,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-11",
+"pib_real","T","2019T2",2019,2,,,6.1,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-11",
+"pib_real","T","2019T3",2019,3,,,4.2,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-11",
+"pib_real","T","2019T4",2019,4,,,-0.4,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-11",
+"pib_real","T","2020T1",2020,1,,,-0.5,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-11",
+"pib_real","T","2020T2",2020,2,,,-15.5,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-11",
+"pib_real","T","2020T3",2020,3,,,-11.2,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-11",
+"pib_real","T","2020T4",2020,4,,,-4.2,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-11",
+"pib_real","T","2021T1",2021,1,,,8.7,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-02",
+"pib_real","T","2021T2",2021,2,,,16.8,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-02",
+"pib_real","T","2021T3",2021,3,,,11.7,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-02",
+"pib_real","T","2021T4",2021,4,,,18.3,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-02",
+"pib_real","T","2022T1",2022,1,,,1.4,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-02",
+"pib_real","T","2022T2",2022,2,,,0.2,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-02",
+"pib_real","T","2022T3",2022,3,,,-9.1,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-02",
+"pib_real","T","2022T4",2022,4,,,-8.3,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-02",
+"pib_real","T","2023T1",2023,1,,,-0.1,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-02",
+"pib_real","T","2023T2",2023,2,,,0.1,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-02",
+"pib_real","T","2023T3",2023,3,,,3.9,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-02",
+"pib_real","T","2023T4",2023,4,,,0.5,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-02",
+"pib_real","T","2024T1",2024,1,,,2.1,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-02",
+"pib_real","T","2024T2",2024,2,,,2.6,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-02",
+"pib_real","T","2024T3",2024,3,,,-1.7,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-02",
+"pib_real","T","2024T4",2024,4,,,-1.1,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","CNT255300.px",,"2026-09-02",
+"pib_real","T","2025T1",2025,1,,,-1.2178,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","https://statistica.gov.md/files/files/ComPresa/PIB/Anexa_%201_Res-Utiliz-PIB_trim_I_2025.xlsx",,"2026-09-02","comunicat BNS"
+"pib_real","T","2025T2",2025,2,,,1.1349,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","https://statistica.gov.md/files/files/ComPresa/PIB/Anexe_Res-Utiliz-PIB_trim_II_2025.xlsx",,"2026-09-02","comunicat BNS"
+"pib_real","T","2025T3",2025,3,,,5.2446,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","https://statistica.gov.md/files/files/ComPresa/PIB/Res_Utiliz_PIB_trim_III_2025.xlsx",,"2026-09-02","comunicat BNS"
+"pib_real","T","2025T4",2025,4,,,3.5585,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","https://statistica.gov.md/files/files/ComPresa/PIB/Res_Utiliz_PIB_trim_IV_2025.xlsx",,"2026-09-02","comunicat BNS"
+"pib_real","T","2026T1",2026,1,,,0.3559,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","https://statistica.gov.md/files/files/ComPresa/PIB/Res-Utiliz-PIB_trim_I_2026_ro.xlsx",,"2026-09-02","comunicat BNS"
+"pib_real","T","2026T2",2026,2,,,0.9158,,,"% față de perioada precedentă a anului anterior","efectiv","BNS","https://statistica.gov.md/files/files/ComPresa/PIB/Anexa_Res_Utiliz_PIB_trim_II_sem_I_2026.xlsx",,"2026-09-15","comunicat BNS"
+"rata_credite_imobil","L","2025L08",2025,,8,,8.16,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_imobil","L","2025L09",2025,,9,,8.21,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_imobil","L","2025L10",2025,,10,,8.17,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_imobil","L","2025L11",2025,,11,,8.14,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_imobil","L","2025L12",2025,,12,,8.24,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_imobil","L","2026L01",2026,,1,,8.11,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_imobil","L","2026L02",2026,,2,,8.09,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_imobil","L","2026L03",2026,,3,,8.03,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_imobil","L","2026L04",2026,,4,,7.97,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_imobil","L","2026L05",2026,,5,,7.95,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_imobil","L","2026L06",2026,,6,,7.96,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_imobil","L","2026L07",2026,,7,,7.97,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_imobil","L","2026L08",2026,,8,,8.07,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-18","total pe termene"
+"rata_credite_juridice","L","2025L08",2025,,8,,8.71,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_juridice","L","2025L09",2025,,9,,8.75,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_juridice","L","2025L10",2025,,10,,8.46,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_juridice","L","2025L11",2025,,11,,8.36,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_juridice","L","2025L12",2025,,12,,8.42,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_juridice","L","2026L01",2026,,1,,8.24,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_juridice","L","2026L02",2026,,2,,8.14,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_juridice","L","2026L03",2026,,3,,8.45,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_juridice","L","2026L04",2026,,4,,8.42,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_juridice","L","2026L05",2026,,5,,8.44,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_juridice","L","2026L06",2026,,6,,8.34,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_juridice","L","2026L07",2026,,7,,8.6,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_juridice","L","2026L08",2026,,8,,8.55,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-18","total pe termene"
+"rata_credite_lei","L","2025L08",2025,,8,,9.38,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_lei","L","2025L09",2025,,9,,9.35,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_lei","L","2025L10",2025,,10,,9.22,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_lei","L","2025L11",2025,,11,,9.06,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_lei","L","2025L12",2025,,12,,9.09,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_lei","L","2026L01",2026,,1,,9.17,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_lei","L","2026L02",2026,,2,,8.95,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_lei","L","2026L03",2026,,3,,9.08,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_lei","L","2026L04",2026,,4,,9.05,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_lei","L","2026L05",2026,,5,,9.12,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_lei","L","2026L06",2026,,6,,9,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_lei","L","2026L07",2026,,7,,9.24,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-17","total pe termene"
+"rata_credite_lei","L","2026L08",2026,,8,,9.19,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dpmc/DPMC8.xhtml?id=0&lang=ro",,"2026-09-18","total pe termene"
+"salariu","A","2015",2015,,,,4610.9,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-11",
+"salariu","A","2016",2016,,,,5084,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-11",
+"salariu","A","2017",2017,,,,5697.1,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-11",
+"salariu","A","2018",2018,,,,6446.4,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-11",
+"salariu","A","2019",2019,,,,7356.1,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-11",
+"salariu","A","2020",2020,,,,8107.5,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-11",
+"salariu","A","2021",2021,,,,9115.9,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-02",
+"salariu","A","2022",2022,,,,10529.1,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-02",
+"salariu","A","2023",2023,,,,12354.7,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-02",
+"salariu","A","2024",2024,,,,14096.7,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-02",
+"salariu","A","2025",2025,,,,15472.1,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-02",
+"salariu","T","2015T1",2015,1,,,4300.2,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-11",
+"salariu","T","2015T2",2015,2,,,4594.2,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-11",
+"salariu","T","2015T3",2015,3,,,4749.2,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-11",
+"salariu","T","2015T4",2015,4,,,4800.8,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-11",
+"salariu","T","2016T1",2016,1,,,4689.2,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-11",
+"salariu","T","2016T2",2016,2,,,4980.7,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-11",
+"salariu","T","2016T3",2016,3,,,5229.2,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-11",
+"salariu","T","2016T4",2016,4,,,5437.4,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-11",
+"salariu","T","2017T1",2017,1,,,5218.9,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-11",
+"salariu","T","2017T2",2017,2,,,5636.7,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-11",
+"salariu","T","2017T3",2017,3,,,5809.1,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-11",
+"salariu","T","2017T4",2017,4,,,6113.6,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-11",
+"salariu","T","2018T1",2018,1,,,5906.5,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-11",
+"salariu","T","2018T2",2018,2,,,6369.8,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-11",
+"salariu","T","2018T3",2018,3,,,6507.3,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-11",
+"salariu","T","2018T4",2018,4,,,6987.5,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-11",
+"salariu","T","2019T1",2019,1,,,6923,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-11",
+"salariu","T","2019T2",2019,2,,,7302.6,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-11",
+"salariu","T","2019T3",2019,3,,,7385,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-11",
+"salariu","T","2019T4",2019,4,,,7813.1,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-11",
+"salariu","T","2020T1",2020,1,,,7633.9,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-11",
+"salariu","T","2020T2",2020,2,,,7849,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-11",
+"salariu","T","2020T3",2020,3,,,8074.3,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-11",
+"salariu","T","2020T4",2020,4,,,8859.9,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-11",
+"salariu","T","2021T1",2021,1,,,8468.6,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-02",
+"salariu","T","2021T2",2021,2,,,9044.5,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-02",
+"salariu","T","2021T3",2021,3,,,9175.7,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-02",
+"salariu","T","2021T4",2021,4,,,9767.6,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-02",
+"salariu","T","2022T1",2022,1,,,9560.8,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-02",
+"salariu","T","2022T2",2022,2,,,10376.2,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-02",
+"salariu","T","2022T3",2022,3,,,10648.1,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-02",
+"salariu","T","2022T4",2022,4,,,11539.1,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-02",
+"salariu","T","2023T1",2023,1,,,11486.2,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-02",
+"salariu","T","2023T2",2023,2,,,12175.9,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-02",
+"salariu","T","2023T3",2023,3,,,12357.2,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-02",
+"salariu","T","2023T4",2023,4,,,13401.1,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-02",
+"salariu","T","2024T1",2024,1,,,13170.3,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-02",
+"salariu","T","2024T2",2024,2,,,14069.2,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-02",
+"salariu","T","2024T3",2024,3,,,14116.8,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-02",
+"salariu","T","2024T4",2024,4,,,15024.5,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-02",
+"salariu","T","2025T1",2025,1,,,14567.5,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-02",
+"salariu","T","2025T2",2025,2,,,15470.6,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-02",
+"salariu","T","2025T3",2025,3,,,15487.8,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-02",
+"salariu","T","2025T4",2025,4,,,16355.1,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-02",
+"salariu","T","2026T1",2026,1,,,15987.1,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-02",
+"salariu","T","2026T2",2026,2,,,16895.7,,,"lei / lună","efectiv","BNS","SAL014800.px",,"2026-09-02",
+"transferuri","L","2015L01",2015,,1,,69.92,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2015L02",2015,,2,,79.58,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2015L03",2015,,3,,94.2,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2015L04",2015,,4,,96.15,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2015L05",2015,,5,,99.28,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2015L06",2015,,6,,111.34,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2015L07",2015,,7,,112.18,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2015L08",2015,,8,,81.9,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2015L09",2015,,9,,99.93,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2015L10",2015,,10,,97.12,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2015L11",2015,,11,,90.68,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2015L12",2015,,12,,97.08,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2016L01",2016,,1,,58.2,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2016L02",2016,,2,,73.28,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2016L03",2016,,3,,92.01,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2016L04",2016,,4,,92.97,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2016L05",2016,,5,,88.39,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2016L06",2016,,6,,98.08,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2016L07",2016,,7,,97.13,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2016L08",2016,,8,,96.79,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2016L09",2016,,9,,99.89,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2016L10",2016,,10,,97.56,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2016L11",2016,,11,,90.97,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2016L12",2016,,12,,93.97,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2017L01",2017,,1,,74.74,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2017L02",2017,,2,,79.05,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2017L03",2017,,3,,97.99,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2017L04",2017,,4,,86.25,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2017L05",2017,,5,,105.34,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2017L06",2017,,6,,108.3,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2017L07",2017,,7,,105.3,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2017L08",2017,,8,,105.93,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2017L09",2017,,9,,109.36,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2017L10",2017,,10,,116.25,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2017L11",2017,,11,,105.24,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2017L12",2017,,12,,106.22,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2018L01",2018,,1,,94.22,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2018L02",2018,,2,,93.69,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2018L03",2018,,3,,109.8,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2018L04",2018,,4,,98.84,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2018L05",2018,,5,,126.3,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2018L06",2018,,6,,117.53,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2018L07",2018,,7,,115.8,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2018L08",2018,,8,,102.07,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2018L09",2018,,9,,97.59,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2018L10",2018,,10,,111.07,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2018L11",2018,,11,,103.57,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2018L12",2018,,12,,96.36,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2019L01",2019,,1,,85.91,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2019L02",2019,,2,,88.43,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2019L03",2019,,3,,101.4,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2019L04",2019,,4,,104.01,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2019L05",2019,,5,,107.97,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2019L06",2019,,6,,100.74,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2019L07",2019,,7,,114.91,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2019L08",2019,,8,,99.38,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2019L09",2019,,9,,100.22,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2019L10",2019,,10,,110.45,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2019L11",2019,,11,,101.44,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2019L12",2019,,12,,108.03,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2020L01",2020,,1,,86.65,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2020L02",2020,,2,,94.68,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2020L03",2020,,3,,95.13,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2020L04",2020,,4,,92.14,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2020L05",2020,,5,,134.54,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2020L06",2020,,6,,143.24,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2020L07",2020,,7,,148.82,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2020L08",2020,,8,,126.44,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2020L09",2020,,9,,148.87,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2020L10",2020,,10,,136.52,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2020L11",2020,,11,,131.87,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2020L12",2020,,12,,147.84,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-11","bază netă, total intrări"
+"transferuri","L","2021L01",2021,,1,,105.83,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2021L02",2021,,2,,113.54,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2021L03",2021,,3,,145.97,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2021L04",2021,,4,,147.47,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2021L05",2021,,5,,138.93,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2021L06",2021,,6,,144.36,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2021L07",2021,,7,,135.89,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2021L08",2021,,8,,126.3,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2021L09",2021,,9,,144.51,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2021L10",2021,,10,,132.49,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2021L11",2021,,11,,139.16,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2021L12",2021,,12,,137.38,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2022L01",2022,,1,,102.21,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2022L02",2022,,2,,113.66,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2022L03",2022,,3,,135.66,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2022L04",2022,,4,,127.7,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2022L05",2022,,5,,146.84,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2022L06",2022,,6,,167.78,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2022L07",2022,,7,,171.7,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2022L08",2022,,8,,161.04,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2022L09",2022,,9,,159.03,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2022L10",2022,,10,,153.7,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2022L11",2022,,11,,153.16,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2022L12",2022,,12,,153.26,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2023L01",2023,,1,,119.7,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2023L02",2023,,2,,131.37,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2023L03",2023,,3,,156.37,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2023L04",2023,,4,,123.08,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2023L05",2023,,5,,154.12,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2023L06",2023,,6,,149.31,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2023L07",2023,,7,,137.87,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2023L08",2023,,8,,129.98,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2023L09",2023,,9,,129.86,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2023L10",2023,,10,,133.71,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2023L11",2023,,11,,133.49,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2023L12",2023,,12,,128.89,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2024L01",2024,,1,,114.25,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2024L02",2024,,2,,121.7,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2024L03",2024,,3,,135.28,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2024L04",2024,,4,,146.73,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2024L05",2024,,5,,146.59,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2024L06",2024,,6,,132.9,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2024L07",2024,,7,,154.33,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2024L08",2024,,8,,132.18,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2024L09",2024,,9,,123.48,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2024L10",2024,,10,,139.03,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2024L11",2024,,11,,128.63,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2024L12",2024,,12,,136.52,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2025L01",2025,,1,,108.73,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2025L02",2025,,2,,115.2,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2025L03",2025,,3,,132.52,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2025L04",2025,,4,,130.86,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2025L05",2025,,5,,142.78,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2025L06",2025,,6,,141.95,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2025L07",2025,,7,,153.37,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2025L08",2025,,8,,132.21,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2025L09",2025,,9,,142.61,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2025L10",2025,,10,,152.08,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2025L11",2025,,11,,136.25,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2025L12",2025,,12,,173.77,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2026L01",2026,,1,,128.63,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2026L02",2026,,2,,138.99,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2026L03",2026,,3,,174.52,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2026L04",2026,,4,,173.01,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2026L05",2026,,5,,170.66,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2026L06",2026,,6,,181.3,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2026L07",2026,,7,,185.39,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-05","bază netă, total intrări"
+"transferuri","L","2026L08",2026,,8,,165.91,,,"mil. USD","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dbp/DBP4.xhtml?id=0&lang=ro",,"2026-09-25","bază netă, total intrări"
+"venituri_bpn","L","2017L01",2017,,1,,3328.6,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031_01_17.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2017L04",2017,,4,,3857.9,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030_04_2017.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2017L05",2017,,5,,4112.8,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031_05_2017.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2017L06",2017,,6,,4945.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030_06_2017.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2017L07",2017,,7,,4289.1,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.07.2017.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2017L08",2017,,8,,4400.8,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.08.2017.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2017L09",2017,,9,,4826.4,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.09.2017.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2017L10",2017,,10,,4465.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.10.2017.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2017L11",2017,,11,,4299.6,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.11.2017.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2017L12",2017,,12,,6189,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.12.2017.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2018L01",2018,,1,,3889.1,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.01.2018.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2018L02",2018,,2,,3875.8,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2028.02.2018.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2018L03",2018,,3,,5519.9,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.03.2018.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2018L04",2018,,4,,4317.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.04.2018.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2018L05",2018,,5,,4778.5,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.05.2018.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2018L06",2018,,6,,5396.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.06.2018.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2018L07",2018,,7,,5056.8,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.07.2018.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2018L08",2018,,8,,4570.6,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.08.2018.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2018L09",2018,,9,,5241.1,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.09.2018.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2018L10",2018,,10,,4992.2,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.10.2018.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2018L11",2018,,11,,4602.1,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.11.2018.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2018L12",2018,,12,,5725.2,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.12.2018.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2019L01",2019,,1,,4229.7,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.01.2019.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2019L02",2019,,2,,4204.7,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2028.02.2019.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2019L03",2019,,3,,5693.9,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.03.2019.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2019L04",2019,,4,,5011.4,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.04.2019.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2019L05",2019,,5,,4832.2,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.05.2019%20%281%29.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2019L06",2019,,6,,5495.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.06.2019.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2019L07",2019,,7,,5552.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.07.2019.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2019L08",2019,,8,,4855.1,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.08.2019.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2019L09",2019,,9,,5404,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.09.2019.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2019L10",2019,,10,,5660.2,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.10.2019.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2019L11",2019,,11,,5699.2,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.11.2019.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2019L12",2019,,12,,6311.2,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.12.2019.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2020L01",2020,,1,,4717,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.01.2020.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2020L02",2020,,2,,4848.9,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2029.02.2020.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2020L03",2020,,3,,5462.2,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.03.2020.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2020L04",2020,,4,,3843.1,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.04.2020.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2020L05",2020,,5,,4380.4,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.05.2020.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2020L06",2020,,6,,5785.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.06.2020.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2020L07",2020,,7,,5022.4,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.07.2020.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2020L08",2020,,8,,4936.1,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.08.2020.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2020L09",2020,,9,,5639.6,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.09.2020.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2020L10",2020,,10,,5461,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.10.2020.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2020L11",2020,,11,,5436.6,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.11.2020.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2020L12",2020,,12,,7122.7,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.12.2020.xls",,"2026-09-11","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2021L01",2021,,1,,5080,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.01.2021.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2021L02",2021,,2,,5062.5,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2028.02.2021.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2021L03",2021,,3,,6556.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.03.2021.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2021L04",2021,,4,,5832.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.04.2021.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2021L05",2021,,5,,5551.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.05.2021.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2021L06",2021,,6,,6850.8,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.06.2021.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2021L07",2021,,7,,6091.7,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.07.2021.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2021L08",2021,,8,,5927.2,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.08.2021.xlsx",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2021L09",2021,,9,,7124.7,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.09.2021.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2021L10",2021,,10,,7568,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.10.2021.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2021L11",2021,,11,,6303.7,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.11.2021.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2021L12",2021,,12,,9424.5,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031%20decembrie%202021.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2022L01",2022,,1,,5867.1,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.01.2022.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2022L02",2022,,2,,6000,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2028.02.2022.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2022L03",2022,,3,,8208.8,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.03.2022.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2022L04",2022,,4,,7010.2,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.04.2022.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2022L05",2022,,5,,6473.6,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.05.2022.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2022L06",2022,,6,,8143.6,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.06.2022.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2022L07",2022,,7,,7026.2,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.07.2022.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2022L08",2022,,8,,8840.1,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.08.2022.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2022L09",2022,,9,,7998.9,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.09.2022.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2022L10",2022,,10,,7579.4,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.10.2022.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2022L11",2022,,11,,7949.4,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.11.2022.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2022L12",2022,,12,,10408.1,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.12.2022.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2023L01",2023,,1,,7228.8,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.01.2023.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2023L02",2023,,2,,6775.5,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2028.02.2023_0.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2023L03",2023,,3,,9963.9,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.03.2023.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2023L04",2023,,4,,7499.5,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.04.2023.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2023L05",2023,,5,,7399,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.05.2023.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2023L06",2023,,6,,8196.9,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.06.2023%20%281%29.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2023L07",2023,,7,,8557.1,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.07.2023.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2023L08",2023,,8,,8015.7,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.08.2023.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2023L09",2023,,9,,10238,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.09.2023.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2023L10",2023,,10,,8625.1,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.10.2023.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2023L11",2023,,11,,8014.7,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN_%2030.11.2023.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2023L12",2023,,12,,11785,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.12.2023%20%281%29.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2024L01",2024,,1,,7597.8,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.01.2024.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2024L02",2024,,2,,7748.9,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2029.02.2024.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2024L03",2024,,3,,9999.7,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.03.2024.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2024L06",2024,,6,,9597.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.06.2024.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2024L07",2024,,7,,10245.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.07.2024.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2024L08",2024,,8,,8770.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.08.2024.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2024L09",2024,,9,,9910.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030%20sept%202024.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2024L10",2024,,10,,9233.5,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.10.2024.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2024L11",2024,,11,,8797.1,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.11.2024.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2024L12",2024,,12,,11203.1,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.12.2024.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2025L01",2025,,1,,8933.82,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.01.2025.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2025L02",2025,,2,,8668.48,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2028.02.2025.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2025L03",2025,,3,,11549.2,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.03.2025.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2025L04",2025,,4,,10229.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.04.2025.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2025L05",2025,,5,,9287.6,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.05.2025%20a.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2025L06",2025,,6,,11863.1,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.06.2025.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2025L07",2025,,7,,11442.5,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.07.2025%20%282%29.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2025L08",2025,,8,,10075.42,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.08.2025.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2025L09",2025,,9,,10879.98,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.09.2025.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2025L10",2025,,10,,10098.4,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.10.2025.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2025L11",2025,,11,,9925.9,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.11.2025.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2025L12",2025,,12,,12648.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.12.2025.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2026L01",2026,,1,,9605.4,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.01.2026.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2026L02",2026,,2,,9212.6,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2028.02.2026.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2026L03",2026,,3,,12171.7,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.03.2026.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2026L04",2026,,4,,10523,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.04.2026.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2026L05",2026,,5,,10153.1,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.05.2026.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_bpn","L","2026L06",2026,,6,,11666.8,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.06.2026.xls",,"2026-09-05","flux lunar = diferența cumulatelor"
+"venituri_fiscale","A","2016",2016,,,,29231.1,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/BPN-%202016-2026.xls",,"2026-09-11","seria anuală BPN"
+"venituri_fiscale","A","2017",2017,,,,34475.8,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/BPN-%202016-2026.xls",,"2026-09-11","seria anuală BPN"
+"venituri_fiscale","A","2018",2018,,,,37660,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/BPN-%202016-2026.xls",,"2026-09-11","seria anuală BPN"
+"venituri_fiscale","A","2019",2019,,,,40054.2,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.12.2019.xls",,"2026-09-11",
+"venituri_fiscale","A","2020",2020,,,,39747.1,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/BPN-%202016-2026.xls",,"2026-09-11","seria anuală BPN"
+"venituri_fiscale","A","2021",2021,,,,49388.8,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031%20decembrie%202021.xls",,"2026-09-02",
+"venituri_fiscale","A","2022",2022,,,,57524.2,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.12.2022.xls",,"2026-09-02",
+"venituri_fiscale","A","2023",2023,,,,63006.1,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.12.2023%20%281%29.xls",,"2026-09-02",
+"venituri_fiscale","A","2024",2024,,,,68481.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.12.2024.xls",,"2026-09-02",
+"venituri_fiscale","A","2025",2025,,,,75894.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.12.2025.xls",,"2026-09-02",
+"venituri_fiscale","T","2017T1",2017,1,,,8006,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031_03_2017.xls",,"2026-09-11","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2017T2",2017,2,,,8347.6,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030_06_2017.xls",,"2026-09-11","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2017T3",2017,3,,,8983.1,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.09.2017.xls",,"2026-09-11","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2017T4",2017,4,,,9139.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.12.2017.xls",,"2026-09-11","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2018T1",2018,1,,,8742.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.03.2018.xls",,"2026-09-11","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2018T2",2018,2,,,9138.6,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.06.2018.xls",,"2026-09-11","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2018T3",2018,3,,,9832.9,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.09.2018.xls",,"2026-09-11","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2018T4",2018,4,,,9946.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.12.2018.xls",,"2026-09-11","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2019T1",2019,1,,,9191.9,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.03.2019.xls",,"2026-09-11","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2019T2",2019,2,,,9770.9,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.06.2019.xls",,"2026-09-11","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2019T3",2019,3,,,10260.6,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.09.2019.xls",,"2026-09-11","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2019T4",2019,4,,,10830.8,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.12.2019.xls",,"2026-09-11","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2020T1",2020,1,,,9706.1,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.03.2020.xls",,"2026-09-11","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2020T2",2020,2,,,8514.2,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.06.2020.xls",,"2026-09-11","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2020T3",2020,3,,,10221.7,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.09.2020.xls",,"2026-09-11","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2020T4",2020,4,,,11310.2,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.12.2020.xls",,"2026-09-11","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2021T1",2021,1,,,10862.6,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.03.2021.xls",,"2026-09-02","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2021T2",2021,2,,,11723.1,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.06.2021.xls",,"2026-09-02","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2021T3",2021,3,,,13007.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.09.2021.xls",,"2026-09-02","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2021T4",2021,4,,,13795.8,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031%20decembrie%202021.xls",,"2026-09-02","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2022T1",2022,1,,,13554.5,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.03.2022.xls",,"2026-09-02","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2022T2",2022,2,,,13813.4,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.06.2022.xls",,"2026-09-02","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2022T3",2022,3,,,14675.9,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.09.2022.xls",,"2026-09-02","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2022T4",2022,4,,,15480.4,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.12.2022.xls",,"2026-09-02","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2023T1",2023,1,,,15814.2,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.03.2023.xls",,"2026-09-02","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2023T2",2023,2,,,14195.5,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.06.2023%20%281%29.xls",,"2026-09-02","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2023T3",2023,3,,,15828.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.09.2023.xls",,"2026-09-02","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2023T4",2023,4,,,17168.1,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.12.2023%20%281%29.xls",,"2026-09-02","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2024T1",2024,1,,,16247.2,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.03.2024.xls",,"2026-09-02","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2024T2",2024,2,,,16314.9,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.06.2024.xls",,"2026-09-02","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2024T3",2024,3,,,17711.4,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030%20sept%202024.xls",,"2026-09-02","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2024T4",2024,4,,,18207.8,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.12.2024.xls",,"2026-09-02","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2025T1",2025,1,,,17831.3,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.03.2025.xls",,"2026-09-02","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2025T2",2025,2,,,17935.5,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.06.2025.xls",,"2026-09-02","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2025T3",2025,3,,,19941.1,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.09.2025.xls",,"2026-09-02","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2025T4",2025,4,,,20186.4,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.12.2025.xls",,"2026-09-02","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2026T1",2026,1,,,19616.9,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2031.03.2026.xls",,"2026-09-02","flux trimestrial = diferența cumulatelor"
+"venituri_fiscale","T","2026T2",2026,2,,,19601.4,,,"mil. lei","efectiv","MF","https://mf.gov.md/sites/default/files/RAPORT%20BPN%2030.06.2026.xls",,"2026-09-02","flux trimestrial = diferența cumulatelor"
+"vms_364","L","2025L01",2025,,1,,7.44,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_364","L","2025L02",2025,,2,,8.34,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_364","L","2025L03",2025,,3,,9.93,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_364","L","2025L04",2025,,4,,10.16,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_364","L","2025L05",2025,,5,,10.06,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_364","L","2025L06",2025,,6,,9.67,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_364","L","2025L07",2025,,7,,9.25,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_364","L","2025L08",2025,,8,,9.27,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_364","L","2025L09",2025,,9,,9.25,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_364","L","2025L10",2025,,10,,9.29,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_364","L","2025L11",2025,,11,,9.33,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_364","L","2025L12",2025,,12,,9.41,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_364","L","2026L01",2026,,1,,9.51,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_364","L","2026L02",2026,,2,,9.53,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_364","L","2026L03",2026,,3,,9.54,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_364","L","2026L04",2026,,4,,9.54,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_364","L","2026L05",2026,,5,,9.56,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_364","L","2026L06",2026,,6,,9.93,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_364","L","2026L07",2026,,7,,10.08,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_364","L","2026L08",2026,,8,,10.14,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_364","L","2026L09",2026,,9,,10.14,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-10-01","rata efectivă medie ponderată, piața primară"
+"vms_91","L","2025L01",2025,,1,,3.02,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_91","L","2025L02",2025,,2,,3.06,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_91","L","2025L03",2025,,3,,3.07,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_91","L","2025L04",2025,,4,,3.06,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_91","L","2025L05",2025,,5,,3.06,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_91","L","2025L06",2025,,6,,3.07,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_91","L","2025L07",2025,,7,,3.07,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_91","L","2025L08",2025,,8,,3.07,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_91","L","2025L09",2025,,9,,3.07,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_91","L","2025L10",2025,,10,,3.07,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_91","L","2025L11",2025,,11,,3.07,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_91","L","2025L12",2025,,12,,3.07,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_91","L","2026L01",2026,,1,,3.07,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_91","L","2026L02",2026,,2,,3.07,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_91","L","2026L03",2026,,3,,3.07,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_91","L","2026L04",2026,,4,,3.07,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_91","L","2026L05",2026,,5,,3.07,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_91","L","2026L06",2026,,6,,3.07,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_91","L","2026L07",2026,,7,,3.07,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_91","L","2026L08",2026,,8,,3.07,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-09-16","rata efectivă medie ponderată, piața primară"
+"vms_91","L","2026L09",2026,,9,,3.07,,,"% anual","efectiv","BNM","https://www.bnm.md/bdi/pages/reports/dop/DOP5.xhtml?id=0&lang=ro",,"2026-10-01","rata efectivă medie ponderată, piața primară"

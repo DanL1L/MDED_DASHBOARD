@@ -1,0 +1,167 @@
+data,sursa,randuri,inserate,revizuite,neschimbate,protejate,eroare
+2026-09-02 20:15:09.526768,bns,132,132,0,0,0,
+2026-09-02 20:15:09.526768,bnm,8,8,0,0,0,
+2026-09-02 20:15:09.526768,mf,33,28,0,5,0,
+2026-09-02 20:29:03.524739,bns,132,0,0,132,0,
+2026-09-02 20:29:03.524739,bnm,8,8,0,0,0,
+2026-09-02 20:29:03.524739,mf,33,1,0,32,0,
+2026-09-03 15:36:48.993865,bns,132,0,0,132,0,
+2026-09-03 15:36:48.993865,bnm,8,8,0,0,0,
+2026-09-03 15:36:48.993865,mf,32,0,0,32,0,
+2026-09-04 16:38:04.488841,bns,132,0,0,132,0,
+2026-09-04 16:38:04.488841,bnm,8,8,0,0,0,
+2026-09-04 16:38:04.488841,mf,32,0,0,32,0,
+2026-09-05 19:08:39.817053,bns,331,199,0,132,0,
+2026-09-05 19:08:39.817053,bnm,75,75,0,0,0,
+2026-09-05 19:08:39.817053,mf,160,128,0,32,0,
+2026-09-08 16:42:01.901731,bns,331,0,0,331,0,
+2026-09-08 16:42:01.901731,bnm,67,0,0,67,0,
+2026-09-08 16:42:01.901731,mf,160,0,0,160,0,
+2026-09-11 10:37:15.508846,bns,698,367,0,331,0,
+2026-09-11 10:37:15.508846,bnm,139,72,0,67,0,
+2026-09-11 10:37:15.508846,mf,277,113,3,161,0,
+2026-09-11 20:34:42.815312,bns,698,0,0,698,0,
+2026-09-11 20:34:42.815312,bnm,139,0,0,139,0,
+2026-09-11 20:34:42.815312,mf,268,0,0,268,0,
+2026-09-15 18:25:28.946785,bns,703,5,0,698,0,
+2026-09-15 18:25:28.946785,bnm,1743,1604,0,139,0,
+2026-09-15 18:25:28.946785,mf,268,0,0,268,0,
+2026-09-16 15:29:23.248939,bns,703,0,0,703,0,
+2026-09-16 15:29:23.248939,bnm,4213,2474,0,1739,0,
+2026-09-16 15:29:23.248939,mf,268,0,0,268,0,
+2026-09-17 13:53:48.207511,bnm,1494,70,0,1424,0,
+2026-09-17 13:30:56.704259,bns,703,0,0,703,0,
+2026-09-17 13:30:56.704259,bnm,1487,0,1,1486,0,
+2026-09-17 13:30:56.704259,mf,268,0,0,268,0,
+2026-09-17 15:23:47.712553,bns,703,0,0,703,0,
+2026-09-17 15:23:47.712553,bnm,1487,0,0,1487,0,
+2026-09-17 15:23:47.712553,mf,268,0,0,268,0,
+2026-09-18 12:10,bns,703,0,0,703,0,
+2026-09-18 12:10,bnm,1499,15,0,1484,0,
+2026-09-18 12:10,mf,268,0,0,268,0,
+2026-09-19 11:57,bns,703,0,0,703,0,
+2026-09-19 11:57,bnm,1499,10,0,1489,0,
+2026-09-19 11:57,mf,268,0,0,268,0,
+2026-09-20 12:28,bns,703,0,0,703,0,
+2026-09-20 12:28,bnm,1499,10,0,1489,0,
+2026-09-20 12:28,mf,268,0,0,268,0,
+2026-09-21 13:11,bns,703,0,0,703,0,
+2026-09-21 13:11,bnm,1499,10,0,1489,0,
+2026-09-21 13:11,mf,268,0,0,268,0,
+2026-09-21 19:15,bns,703,0,0,703,0,
+2026-09-21 19:15,bnm,1492,0,0,1492,0,
+2026-09-21 19:15,mf,268,0,0,268,0,
+2026-09-22 12:28,bns,703,0,0,703,0,
+2026-09-22 12:28,bnm,268,0,0,268,0,
+2026-09-22 12:28,mf,268,0,0,268,0,
+2026-09-23 12:29,bns,703,0,0,703,0,
+2026-09-23 12:29,bnm,268,0,0,268,0,
+2026-09-23 12:29,mf,268,0,0,268,0,
+2026-09-24 12:39,bns,703,0,0,703,0,
+2026-09-24 12:39,bnm,0,0,0,0,0,"BNM transferuri: Failed to perform HTTP request.
+Caused by error in `curl::curl_fetch_memory()`:
+! Timeout was reached [www.bnm.md]:
+Connection timed out after 60001 milliseconds | BNM rate VMS: Failed to perform HTTP request.
+Caused by error in `curl::curl_fetch_memory()`:
+! Timeout was reached [www.bnm.md]:
+Connection timed out after 60002 milliseconds | BNM intervenții valutare: Failed to perform HTTP request.
+Caused by error in `curl::curl_fetch_memory()`:
+! Timeout was reached [www.bnm.md]:
+Connection timed out after 60002 milliseconds | BNM credite noi: Failed to perform HTTP request.
+Caused by error in `curl::curl_fetch_memory()`:
+! Timeout was reached [www.bnm.md]:
+Connection timed out after 60002 milliseconds"
+2026-09-24 12:39,mf,268,0,0,268,0,
+2026-09-25 12:47,bns,703,0,0,703,0,
+2026-09-25 12:47,bnm,271,3,0,268,0,
+2026-09-25 12:47,mf,268,0,0,268,0,
+2026-09-26 12:41,bns,703,0,0,703,0,
+2026-09-26 12:41,bnm,0,0,0,0,0,"BNM transferuri: Failed to perform HTTP request.
+Caused by error in `curl::curl_fetch_memory()`:
+! Timeout was reached [www.bnm.md]:
+Connection timed out after 60002 milliseconds | BNM rate VMS: Failed to perform HTTP request.
+Caused by error in `curl::curl_fetch_memory()`:
+! Timeout was reached [www.bnm.md]:
+Connection timed out after 60002 milliseconds | BNM intervenții valutare: Failed to perform HTTP request.
+Caused by error in `curl::curl_fetch_memory()`:
+! Timeout was reached [www.bnm.md]:
+Connection timed out after 60002 milliseconds | BNM credite noi: Failed to perform HTTP request.
+Caused by error in `curl::curl_fetch_memory()`:
+! Timeout was reached [www.bnm.md]:
+Connection timed out after 60002 milliseconds"
+2026-09-26 12:41,mf,268,0,0,268,0,
+2026-09-27 13:22,bns,703,0,0,703,0,
+2026-09-27 13:22,bnm,0,0,0,0,0,"BNM transferuri: Failed to perform HTTP request.
+Caused by error in `curl::curl_fetch_memory()`:
+! Timeout was reached [www.bnm.md]:
+Connection timed out after 60000 milliseconds | BNM rate VMS: Failed to perform HTTP request.
+Caused by error in `curl::curl_fetch_memory()`:
+! Timeout was reached [www.bnm.md]:
+Connection timed out after 60002 milliseconds | BNM intervenții valutare: Failed to perform HTTP request.
+Caused by error in `curl::curl_fetch_memory()`:
+! Timeout was reached [www.bnm.md]:
+Connection timed out after 60001 milliseconds | BNM credite noi: Failed to perform HTTP request.
+Caused by error in `curl::curl_fetch_memory()`:
+! Timeout was reached [www.bnm.md]:
+Connection timed out after 60001 milliseconds"
+2026-09-27 13:22,mf,268,0,0,268,0,
+2026-09-28 14:12,bns,703,0,0,703,0,
+2026-09-28 14:12,bnm,271,0,0,271,0,
+2026-09-28 14:12,mf,268,0,0,268,0,
+2026-09-29 13:54,bns,703,0,0,703,0,
+2026-09-29 13:54,bnm,271,0,0,271,0,
+2026-09-29 13:54,mf,268,0,0,268,0,
+2026-09-30 13:42,bns,703,0,0,703,0,
+2026-09-30 13:42,bnm,271,0,0,271,0,
+2026-09-30 13:42,mf,268,0,0,268,0,
+2026-10-01 14:09,bns,703,0,0,703,0,
+2026-10-01 14:09,bnm,273,2,0,271,0,
+2026-10-01 14:09,mf,268,0,0,268,0,
+2026-10-02 13:47,bns,703,0,0,703,0,
+2026-10-02 13:47,bnm,273,0,0,273,0,
+2026-10-02 13:47,mf,268,0,0,268,0,
+2026-10-03 13:02,bns,703,0,0,703,0,
+2026-10-03 13:02,bnm,273,0,0,273,0,
+2026-10-03 13:02,mf,268,0,0,268,0,
+2026-10-04 13:46,bns,703,0,0,703,0,
+2026-10-04 13:46,bnm,273,0,0,273,0,
+2026-10-04 13:46,mf,268,0,0,268,0,
+2026-10-05 14:49,bns,703,0,0,703,0,
+2026-10-05 14:49,bnm,273,0,0,273,0,
+2026-10-05 14:49,mf,268,0,0,268,0,
+2026-10-06 14:29,bns,703,0,0,703,0,
+2026-10-06 14:29,bnm,266,0,0,266,0,
+2026-10-06 14:29,mf,268,0,0,268,0,
+2026-10-07 14:19,bns,703,0,0,703,0,
+2026-10-07 14:19,bnm,266,0,0,266,0,
+2026-10-07 14:19,mf,268,0,0,268,0,
+"2026-10-14 11:23","bns",705,2,0,703,0,""
+"2026-10-14 11:23","bnm",140,0,0,140,0,"BNM rate VMS: BDI nu a generat raportul (validare eșuată sau structura paginii s-a schimbat) | BNM intervenții valutare: raportul BDI nu are coloane lunare | BNM credite noi: BDI nu a generat raportul (validare eșuată sau structura paginii s-a schimbat)"
+"2026-10-14 11:23","mf",268,0,0,268,0,""
+"2026-10-14 11:24","bns",705,0,0,705,0,""
+"2026-10-14 11:24","bnm",140,0,0,140,0,"BNM rate VMS: BDI nu a generat raportul (validare eșuată sau structura paginii s-a schimbat) | BNM intervenții valutare: raportul BDI nu are coloane lunare | BNM credite noi: BDI nu a generat raportul (validare eșuată sau structura paginii s-a schimbat)"
+"2026-10-14 11:24","mf",268,0,0,268,0,""
+"2026-10-14 11:25","bns",705,0,0,705,0,""
+"2026-10-14 11:25","bnm",140,0,0,140,0,"BNM rate VMS: BDI nu a generat raportul (validare eșuată sau structura paginii s-a schimbat) | BNM intervenții valutare: raportul BDI nu are coloane lunare | BNM credite noi: BDI nu a generat raportul (validare eșuată sau structura paginii s-a schimbat)"
+"2026-10-14 11:25","mf",268,0,0,268,0,""
+"2026-10-14 11:26","bns",705,0,0,705,0,""
+"2026-10-14 11:26","bnm",140,0,0,140,0,"BNM rate VMS: BDI nu a generat raportul (validare eșuată sau structura paginii s-a schimbat) | BNM intervenții valutare: raportul BDI nu are coloane lunare | BNM credite noi: BDI nu a generat raportul (validare eșuată sau structura paginii s-a schimbat)"
+"2026-10-14 11:26","mf",268,0,0,268,0,""
+"2026-10-14 11:38","bns",705,0,0,705,0,""
+"2026-10-14 11:38","bnm",140,0,0,140,0,"BNM rate VMS: BDI nu a generat raportul (validare eșuată sau structura paginii s-a schimbat) | BNM intervenții valutare: raportul BDI nu are coloane lunare | BNM credite noi: BDI nu a generat raportul (validare eșuată sau structura paginii s-a schimbat)"
+"2026-10-14 11:38","mf",268,0,0,268,0,""
+"2026-10-14 12:18","bns",705,0,0,705,0,""
+"2026-10-14 12:18","bnm",140,0,0,140,0,"BNM rate VMS: BDI nu a generat raportul (validare eșuată sau structura paginii s-a schimbat) | BNM intervenții valutare: raportul BDI nu are coloane lunare | BNM credite noi: BDI nu a generat raportul (validare eșuată sau structura paginii s-a schimbat)"
+"2026-10-14 12:18","mf",268,0,0,268,0,""
+"2026-10-14 12:32","bns",705,0,0,705,0,""
+"2026-10-14 12:32","bnm",140,0,0,140,0,"BNM rate VMS: BDI nu a generat raportul (validare eșuată sau structura paginii s-a schimbat) | BNM intervenții valutare: raportul BDI nu are coloane lunare | BNM credite noi: BDI nu a generat raportul (validare eșuată sau structura paginii s-a schimbat)"
+"2026-10-14 12:32","mf",268,0,0,268,0,""
+"2026-10-14 12:35","bns",705,0,0,705,0,""
+"2026-10-14 12:35","bnm",259,0,0,259,0,""
+"2026-10-14 12:35","mf",268,0,0,268,0,""
+"2026-10-14 16:25","bns",705,0,0,705,0,""
+"2026-10-14 16:25","bnm",259,0,0,259,0,""
+"2026-10-14 16:25","mf",268,0,0,268,0,""
+"2026-10-14 16:54","bns",705,0,0,705,0,""
+"2026-10-14 16:54","bnm",259,0,0,259,0,""
+"2026-10-14 16:54","mf",268,0,0,268,0,""
