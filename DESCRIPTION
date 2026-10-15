@@ -1,0 +1,6 @@
+Package: moldovaindicator
+Title: Economic Data Dashboard
+Version: 0.1.0
+Description: Fisierul pentru instalarea pachetelor pe GitHub Actions.
+Imports: shiny, bslib, readxl, writexl, httr2, jsonlite, plotly, DT, pdftools, openssl, rsconnect, cpp11, progress
+Encoding: UTF-8
